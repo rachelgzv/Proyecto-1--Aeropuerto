@@ -1,0 +1,56 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/rache/Desktop/UTP life/IV año/1° Semestre/Computación gráfica/paisaje/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_e6d22/fast && C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_e6d22.dir\build.make CMakeFiles/cmTC_e6d22.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/rache/Desktop/UTP life/IV a±o/1░ Semestre/Computaci≤n grßfica/paisaje/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e6d22.dir/testCCompiler.c.obj
+C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_e6d22.dir\testCCompiler.c.obj   -c "C:\Users\rache\Desktop\UTP life\IV a├▒o\1┬░ Semestre\Computaci├│n gr├ífica\paisaje\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: C:\Users\rache\Desktop\UTP life\IV a+ªo\1-ª Semestre\Computaci+ªn gr+φfica\paisaje\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+CMakeFiles\cmTC_e6d22.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_e6d22.dir/testCCompiler.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_e6d22.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/rache/Desktop/UTP life/IV a±o/1░ Semestre/Computaci≤n grßfica/paisaje/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:120: recipe for target 'cmTC_e6d22/fast' failed
+mingw32-make.exe: *** [cmTC_e6d22/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/rache/Desktop/UTP life/IV año/1° Semestre/Computación gráfica/paisaje/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_0473b/fast && C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_0473b.dir\build.make CMakeFiles/cmTC_0473b.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/rache/Desktop/UTP life/IV a±o/1░ Semestre/Computaci≤n grßfica/paisaje/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0473b.dir/testCCompiler.c.obj
+C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_0473b.dir\testCCompiler.c.obj   -c "C:\Users\rache\Desktop\UTP life\IV a├▒o\1┬░ Semestre\Computaci├│n gr├ífica\paisaje\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: C:\Users\rache\Desktop\UTP life\IV a+ªo\1-ª Semestre\Computaci+ªn gr+φfica\paisaje\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+CMakeFiles\cmTC_0473b.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_0473b.dir/testCCompiler.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_0473b.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/rache/Desktop/UTP life/IV a±o/1░ Semestre/Computaci≤n grßfica/paisaje/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:120: recipe for target 'cmTC_0473b/fast' failed
+mingw32-make.exe: *** [cmTC_0473b/fast] Error 2
+
+
+
+The CXX compiler identification could not be found in "C:/Users/rache/Desktop/UTP life/IV año/1° Semestre/Computación gráfica/paisaje/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe"
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/rache/Desktop/UTP life/IV año/1° Semestre/Computación gráfica/paisaje/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_cf93f/fast && C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_cf93f.dir\build.make CMakeFiles/cmTC_cf93f.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/rache/Desktop/UTP life/IV a±o/1░ Semestre/Computaci≤n grßfica/paisaje/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_cf93f.dir/testCCompiler.c.obj
+C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_cf93f.dir\testCCompiler.c.obj   -c "C:\Users\rache\Desktop\UTP life\IV a├▒o\1┬░ Semestre\Computaci├│n gr├ífica\paisaje\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: C:\Users\rache\Desktop\UTP life\IV a+ªo\1-ª Semestre\Computaci+ªn gr+φfica\paisaje\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+CMakeFiles\cmTC_cf93f.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_cf93f.dir/testCCompiler.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_cf93f.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/rache/Desktop/UTP life/IV a±o/1░ Semestre/Computaci≤n grßfica/paisaje/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:120: recipe for target 'cmTC_cf93f/fast' failed
+mingw32-make.exe: *** [cmTC_cf93f/fast] Error 2
+
+
+
